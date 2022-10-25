@@ -1,0 +1,6 @@
+Three files should be here:
+https://huggingface.co/bert-base-uncased
+
+config.json
+pytorch_model.bin
+vocab.txt
